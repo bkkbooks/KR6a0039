@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0039/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 頂生王故事經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0039.xml
+    old_id: T01n0039
+hash: sha256:715e7796223f5e477053d18d8ada870a8f150fa1851463f24fed554901d05082
