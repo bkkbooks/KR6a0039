@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0039_000.yaml, hash: 'sha256:715e7796223f5e477053d18d8ada870a8f150fa1851463f24fed554901d05082'}
-  - {seq: 1, filename: KR6a0039_001.yaml, hash: 'sha256:64b5b3edaecbc8889b1161985ba60b7abee9692e585623e3d938d4c3fd98ab03'}
+  - {seq: 1, filename: KR6a0039_001.yaml, hash: 'sha256:e7a342da9c6ed28bc34530fed9469265f62b5e6c4988548196a9f2d86242eff2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0039_001.markers.yaml, hash: 'sha256:8f82146579b16807c775a9e374a6a58bd68ff2b4469459eae406588575c7b75d'}
+  - {seq: 0, role: markers, filename: assets/KR6a0039_000.markers.yaml, hash: 'sha256:56ef18f85763cd3ebc1b24fef0cbc29a26c0236b368945061f8d8ab3cac955f0'}
+  - {seq: 1, role: markers, filename: assets/KR6a0039_001.markers.yaml, hash: 'sha256:b085cad8c20b8463b323079cff1bf2d4aad7bad8af22be17d482df472a47dec5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說頂生王故事經
   type: juan
   level: 1
-hash: sha256:6bed25a79c75108512fe2d92930ed646f8b69cda10c023e59dd556aad86e7465
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9b0dfcfc9806e54ab93336dd47ef1e280e9a5a09b348a6e27d871e5883f27162
