@@ -30,7 +30,7 @@ assets:
   - {seq: 0, filename: KR6a0039_000.yaml, hash: 'sha256:715e7796223f5e477053d18d8ada870a8f150fa1851463f24fed554901d05082'}
   - {seq: 1, filename: KR6a0039_001.yaml, hash: 'sha256:f11c75b6d191809915f94be86dcb3a8e2c15175e3779a9b2280cd1ce44297e55'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0039_000.markers.yaml, hash: 'sha256:56ef18f85763cd3ebc1b24fef0cbc29a26c0236b368945061f8d8ab3cac955f0'}
+  - {seq: 0, role: markers, filename: assets/KR6a0039_000.markers.yaml, hash: 'sha256:6f82a16c82a6f453f7ae2bd8641b49540641abcf87a080adf5b3d685bc489595'}
   - {seq: 1, role: markers, filename: assets/KR6a0039_001.markers.yaml, hash: 'sha256:d1b88db5130ba344384587e78d434cfd15a0246599e7312af454adf947c3ea4e'}
 table_of_contents:
 - ref:
@@ -43,7 +43,7 @@ table_of_contents:
   label: 佛說頂生王故事經
   type: juan
   level: 1
-hash: sha256:d835627c22ffab9e6285df922560087488e8c47c754ffb30ff194782a7305389
+hash: sha256:70c6d327a7f933608387a73b49a91aefb292bc42ca77920de4f8e9619961da53
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

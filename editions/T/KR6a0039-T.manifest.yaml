@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0039_000-T.yaml, hash: 'sha256:715e7796223f5e477053d18d8ada870a8f150fa1851463f24fed554901d05082'}
   - {seq: 1, filename: KR6a0039_001-T.yaml, hash: 'sha256:e7a342da9c6ed28bc34530fed9469265f62b5e6c4988548196a9f2d86242eff2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0039_000-T.markers.yaml, hash: 'sha256:593f97aa59ae15d6b2645fcc7681b15d295efe050eac13a014d7d4bd35e6fd5d'}
+  - {seq: 0, role: markers, filename: assets/KR6a0039_000-T.markers.yaml, hash: 'sha256:c9087cf9febe4fc4a39e7438ab7b1a485d03655c67ab742ed2d1b86a0ab36c65'}
   - {seq: 1, role: markers, filename: assets/KR6a0039_001-T.markers.yaml, hash: 'sha256:b777c2771241ed8f67bb9300d13dea23982d4d37ab22f0952b083eb71a5e0610'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說頂生王故事經
   type: juan
   level: 1
-hash: sha256:2f5685622c011a14d3dd35eda5534e7d37ce5ec822d210eb3d8a745fa907f20f
+hash: sha256:94f8b0daa89aff44f54882903ad854b9155c4e6b30d24902e9cf8ac5f4453efb
